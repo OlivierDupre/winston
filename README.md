@@ -1,0 +1,2 @@
+# winston
+Winston Typescript configuration
